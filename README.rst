@@ -51,13 +51,6 @@ wikipedia_lang
 
         wikipedia_lang = "fi"   #Finnish
     
-*wikipedia_lang*
-
-    Defalut languge of the wikipedia.
-    If not specified, this defaults to ``"en"``. ::
-
-        wikipedia_lang = "fi"
-
 Usage
 -----
 
