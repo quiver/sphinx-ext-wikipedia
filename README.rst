@@ -57,15 +57,15 @@ Usage
 In your restructuredText markup, you can create links to various Trac 
 entities using markup of the following format::
 
-To link to a *Sphinx* artitle ::
+To link to a *Sphinx* article ::
 
     :wikipedia:`Sphinx`
 
-To link to a *Sphinx* artitle with explicit title *mythical creature* ::
+To link to a *Sphinx* article with explicit title *mythical creature* ::
 
     :wikipedia:`mythical creature <Sphinx>`
 
-To link to a non-default language artitle, use ``:lang:artitle`` markup ::
+To link to a non-default language article, use ``:lang:article`` markup ::
 
     :wikipedia:`:zh:斯芬克斯`
 
